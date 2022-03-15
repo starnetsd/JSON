@@ -1,0 +1,32 @@
+
+    "Theory": "Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC, Методологии разработки",
+    "Client-Server": "Что такое клиент-серверная архитектура. Создание клиент серверного приложения",
+    "HTTP": "HTTP Методы запросов на сервер. Коды ответов HTTP сервера",
+    "API": "Тестирование API через Postman, автотесты API",
+    "Logs": "Снятие и чтение логов c внешнего сервера",
+    "Sniffers": "Снифинг http web трафика",
+    "VPN": "VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)",
+    "Mobile testing": "Особенность iOS, Android, гайдлайны, сборка приложений на XCode и AndroidStudio",
+    "ADB": "Управление андройд девайсами",
+    "Mobile proxy": "Настройка прокси и vpn на iOS и Android",
+    "Mobile sniffers": "Перехват (сниффинг) мобильного трафика",
+    "SQL": "Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)",
+    "Terminal": "копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса, основы bash скриптинг",
+    "DataBase": "База данных. Реляционные и нереляционные базы",
+    "Performance testing": "Jmeter - Hагрузочное тестирование",
+    "Languages":"JSON, XML, HTML, JAVASCRIPT, PYTHON, JAVA, SQL",
+    "Tools":{
+	    "API": "Postman",
+	    "Sniffers": "Charles",
+	    "Sniffers": "Fiddler",
+	    "Developer": "Dev Tools",
+	    "iOS": "XCode",
+	    "Android": "Android Studio",
+	    "Terminal": "Linux terminal",
+	    "Git Terminal": "Git Bash",
+	    "RDB": "Postgres",
+	    "NRDB": "Redis",
+	    "Performance": "Jmeter"
+    }
+
+
