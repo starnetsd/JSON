@@ -5,7 +5,7 @@
 "Steps to reproduce":{
   "1": "Navigate to https://ksendzov.com/login",
   "2": "type 'VadimKsendzov' in the 'username' field",
-  "3": "type 'poplomot' in the 'password' field,
+  "3": "type 'poplomot' in the 'password' field",
   "4": "click on 'Login' button"
 },
 "Actual_Result": "Error message '418 I'm a teapot' message is displayed"
